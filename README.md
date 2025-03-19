@@ -1,34 +1,34 @@
-
 # 👋 Hi, I'm SANGHANI HIMANSHI  
-### 🎨 Aspiring UI/UX Designer | 🖥️ 3rd Year Computer Engineering Student  
+### 🎨 Aspiring UI/UX Designer & Front-End Developer | 🖥️ 3rd Year Computer Engineering Student  
 
-I'm currently exploring the world of **UI/UX design** and learning **Figma, design principles, and user experience concepts**. As a tech enthusiast, I love blending creativity with problem-solving to create intuitive designs.  
+I'm a passionate **UI/UX designer** and budding **front-end developer** skilled in **Figma, HTML, and CSS**. I love transforming creative ideas into **functional and visually appealing web interfaces**, blending design with code.
 
 ---
 
-## 🔥 What I'm Learning  
-✔️ UI/UX Basics (User Research, Wireframing, Prototyping)  
-✔️ Figma for Design & Prototyping  
-✔️ Design Thinking & Usability Principles  
+## 🔥 What I Do  
+✔️ **UI/UX Design:** Creating wireframes, mockups, and prototypes using **Figma**  
+✔️ **Front-End Development:** Building responsive and stylish websites with **HTML & CSS**  
+✔️ **Responsive Design:** Ensuring a seamless user experience across devices  
+✔️ **Design Thinking:** Prioritizing usability, accessibility, and aesthetics  
 
 ---
 
 ## 🚀 Goals for 2025  
-🔹 Master Figma & other design tools  
-🔹 Build a strong portfolio with case studies  
-🔹 Contribute to open-source UI/UX projects  
-🔹 Learn front-end basics to enhance designs  
+🔹 **Master Figma** and enhance my design skills  
+🔹 **Build a portfolio** with UI/UX and front-end projects  
+🔹 **Learn JavaScript** to add interactivity to my designs  
+🔹 **Contribute to open-source** UI/UX projects  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
+### 🎨 **UI/UX Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-F7B500?logo=sketch&logoColor=white)
-![Wireframing](https://img.shields.io/badge/Wireframing-0078D4?logo=microsoft-visio&logoColor=white)
-![Prototyping](https://img.shields.io/badge/Prototyping-FF6F00?logo=proto.io&logoColor=white)
-![User Research](https://img.shields.io/badge/User%20Research-5A67D8?logo=read-the-docs&logoColor=white)
-![Design Thinking](https://img.shields.io/badge/Design%20Thinking-FF4081?logo=thinking&logoColor=white)
+
+### 💻 **Front-End Development**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ---
 
@@ -39,4 +39,3 @@ I'm currently exploring the world of **UI/UX design** and learning **Figma, desi
 ---
 
 ### **✨ Thanks for visiting my profile!**
-
