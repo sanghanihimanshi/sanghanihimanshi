@@ -1,34 +1,35 @@
 # 👋 Hi, I'm SANGHANI HIMANSHI  
-### 🎨 Aspiring UI/UX Designer & Front-End Developer | 🖥️ 3rd Year Computer Engineering Student  
+### 💻 Front-End Developer & 🎨 UI/UX Designer | 🖥️ 3rd Year Computer Engineering Student  
 
-I'm a passionate **UI/UX designer** and budding **front-end developer** skilled in **Figma, HTML, and CSS**. I love transforming creative ideas into **functional and visually appealing web interfaces**, blending design with code.
+I'm a passionate **front-end developer** and **UI/UX designer** skilled in **HTML, CSS, JavaScript, and Figma**. I enjoy transforming creative ideas into **functional and interactive web experiences**, blending design aesthetics with seamless functionality.
 
 ---
 
 ## 🔥 What I Do  
+✔️ **Front-End Development:** Building dynamic and interactive websites using **HTML, CSS, and JavaScript**  
 ✔️ **UI/UX Design:** Creating wireframes, mockups, and prototypes using **Figma**  
-✔️ **Front-End Development:** Building responsive and stylish websites with **HTML & CSS**  
-✔️ **Responsive Design:** Ensuring a seamless user experience across devices  
+✔️ **Responsive Design:** Ensuring consistent user experiences across devices  
 ✔️ **Design Thinking:** Prioritizing usability, accessibility, and aesthetics  
 
 ---
 
 ## 🚀 Goals for 2025  
-🔹 **Master Figma** and enhance my design skills  
-🔹 **Build a portfolio** with UI/UX and front-end projects  
-🔹 **Learn JavaScript** to add interactivity to my designs  
-🔹 **Contribute to open-source** UI/UX projects  
+🔹 **Master JavaScript** to create interactive and dynamic web applications  
+🔹 **Enhance front-end skills** with frameworks like **React.js**  
+🔹 **Build a portfolio** with live front-end projects and UI/UX case studies  
+🔹 **Contribute to open-source** UI/UX and front-end projects  
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-### 🎨 **UI/UX Design**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-
 ### 💻 **Front-End Development**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+### 🎨 **UI/UX Design**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
