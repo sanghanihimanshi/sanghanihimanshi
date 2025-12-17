@@ -1,5 +1,5 @@
 # 👋 Hi, I'm SANGHANI HIMANSHI  
-### 💻 Front-End Developer & 🎨 UI/UX Designer | 🖥️ 3rd Year Computer Engineering Student  
+### 💻 Front-End Developer & 🎨 UI/UX Designer | 🖥️ 4th Year Computer Engineering Student  
 
 I'm a passionate **front-end developer** and **UI/UX designer** skilled in **HTML, CSS, JavaScript, and Figma**. I enjoy transforming creative ideas into **functional and interactive web experiences**, blending design aesthetics with seamless functionality.
 
